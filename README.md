@@ -64,7 +64,13 @@ Visuals of radiotherapy and other therapies will allow users to have a better ex
   
 
 #Sitemap -
+Dr. Louis Kathan & Kathan Oncology sitemap ( Digram created in word document)
 
-#Changelog - Website movement tracking
-#References -
+
+#Changelog - Website movement tracking (KPIs)
+
+#References - Dr.Louis Kahan, n.d. Kathan Oncology. [Online] 
+Available at: https://kathanoncology.co.za/#about
+[Accessed 16 August 2025].
+
 
