@@ -59,10 +59,13 @@ The website hosting and domain name, the requirements (content writing ) , progr
 #Timeline and Milestones -
 
 Week 1: 
+
 •	Selecting a proposal that has been approved. Gathering information from the website as well as external websites for images and videos . 
 Week 2: 
+
 •	Referencing
 Week 3: 
+
 •	Begin the basic html formatting structure for the websites features and functionality.
 
 
