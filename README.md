@@ -54,9 +54,17 @@ The websites goal is to increase their local and international presence and meas
 
 #Key Features and Functionality - 
 
-Visuals of radiotherapy and other therapies will allow users to have a better experience about the website.
+The website hosting and domain name, the requirements (content writing ) , programming languages ( basic html) and frameworks ( sitemap and wireframes) are all technical requirements to be featured on the part of the POE.
 
 #Timeline and Milestones -
+
+Week 1: 
+•	Selecting a proposal that has been approved. Gathering information from the website as well as external websites for images and videos . 
+Week 2: 
+•	Referencing
+Week 3: 
+•	Begin the basic html formatting structure for the websites features and functionality.
+
 
 #Part 1 Details -
 
@@ -76,8 +84,18 @@ Dr. Louis Kathan & Kathan Oncology sitemap ( Digram created in word document)
 
 #Changelog - Website movement tracking (KPIs)
 
-#References - Dr.Louis Kahan, n.d. Kathan Oncology. [Online] 
+#References - 
+
+Dr.Louis Kahan, n.d. Kathan Oncology. [Online] 
 Available at: https://kathanoncology.co.za/#about
 [Accessed 16 August 2025].
+Cancer Research UK, 2018. What is radiotherapy and how does it work?.[video online] Available at: <https://youtu.be/V2VGHUjN17w> [Accessed 16 August 2025].
+cwadvertising, 2021. Work-CWA. [electronic print]. Available at: <https://cwadvertising.co.za/wp-content/uploads/2019/12/Kathan-logo.jpg> [Accessed 16 August 2025].
+awarenessgallery.com, 2023. Lavender All Kinds of Cancer Awareness Ribbon Custom Buttons and Pins. [electronic print]. Available at: <https://awarenessgallery.com/blog/2023/08/11/lavender-all-kinds-of-cancers-awareness-ribbon-custom-buttons-and-pins/> [Accessed 16 August 2025].
+walmart.com, 2024. Cancer Awareness Live Fight Cancer Ribbon Hope Cure Strength T-Shirt. [electronic print]. Available at: <https://tse2.mm.bing.net/th/id/OIP.8PPWn39biVnEO1CyYjWE6wAAAA?rs=1&pid=ImgDetMain&o=7&rm=3> [Accessed 16 August 2025].
+Etsy, 2015. Breast cancer awareness water bottles personalized with your [electronic print]. Available at: <https://i.etsystatic.com/10503194/r/il/8d37d5/772949969/il_fullxfull.772949969_7q5q.jpg> [Accessed 16 August 2025].
+Smith, Kirsten. 2025. Wireframe [Diagram]. Unpublished work.
+Smith, Kirsten. 2025. Sitemap [Diagram]. Unpublished work.
+
 
 
