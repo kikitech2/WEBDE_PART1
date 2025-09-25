@@ -1,53 +1,91 @@
+<!-- NEW UPDATE* I have updated and made changes to my index page for part 2 to enhance the features and fuctionalities of the new CSS Style Sheet that has now been included. -->
 <!DOCTYPE html>
 <html lang = "en">
     <head>
-        <meta charset="UTF-8">
-        <meta name = "viewport" content = "width=device-width, initial-scale=1.0">
-        <titel> My website</titel>
-       
-        
+<!-- NEW UPDATE* I changed the name of the titel from My Website to Cancer Medical Services-->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cancer Awareness</title> 
+<!-- NEW UPDATE* External CSS Style Sheet link added for PART 2-->
+    <link rel="stylesheet" href="style.css">
     </head>
-<body>
-
-    <header>
-        <img class="logo" src="https://th.bing.com/th/id/R.ecc79ae5d12af0fe2128d15fe39b49f8?rik=D7W%2bh79a4Vb%2b1g&riu=http%3a%2f%2fcwadvertising.co.za%2fwp-content%2fuploads%2f2019%2f12%2fKathan-logo.jpg&ehk=o6j4Lmg%2borPTRSUj4tSmXeb9tjkORPI8v9NDtwbzL9o%3d&risl=&pid=ImgRaw&r=0.jpg" alt="logo">
-    
-        <nav>
-            <ul class="nav_links">
-
+ <body>
+<!-- NEW UPDATE* Navigation bar now consists of 5 Webpages which was previously 3 web pages. I have included two new pages which are the Service and Appointment page. -->
+   <header class="navbar">
+    <img class="logo-image" src="https://th.bing.com/th/id/R.ecc79ae5d12af0fe2128d15fe39b49f8?rik=D7W%2bh79a4Vb%2b1g&riu=http%3a%2f%2fcwadvertising.co.za%2fwp-content%2fuploads%2f2019%2f12%2fKathan-logo.jpg&ehk=o6j4Lmg%2borPTRSUj4tSmXeb9tjkORPI8v9NDtwbzL9o%3d&risl=&pid=ImgRaw&r=0.jpg" alt="logo">
+   <nav>
+        <ul class="nav-links">
             <li><a href="index.html">Home</a></li>
             <li><a href="about.html">About</a></li>
+            <li><a href="services.html">Services</a></li>
+            <li><a href="appointment.html" class="nav-btn">Book Now</a></li>
             <li><a href="contact.html">Contact</a></li>
-            </ul>
-        </nav>
+        </ul>
+    </nav>
     </header>
-
-    <main>
-        <section class="intro">
-            <h1 style="color: grey; 
-            font-family: 'Arial', sans-serif; 
-            font-size: 60px; 
-            text-decoration: underline;">
-                Dr. LOUIS KATHAN & KATHAN ONCOLOGY
-            </h1>
-            <h2 style ="color: grey;"
-                font-family: Arial, sans-serif;>
-                A miracle doctor at your service.</h2>
+<!-- NEW UPDATE* I have included selectors (Section / div / footer classes) into the index Content which was previously named the intro section. These selectors are linked to an external document for css styling.-->
+<!-- Section class controls desktop Topography styling  and the layout structure of the faded-in animation of the content.-->
+<!-- Div class controls the hero-contents Topography design and layout structure.-->
+        <section class="hero fade-in">
+         <div class=" hero-content">
+            <h1> Dr. LOUIS KATHAN & KATHAN ONCOLOGY</h1>
+             <h2>Welcome to Kathan Oncology!</h2>
+             <p>Here is an insight of what the following therapies will look like as well as detailed descriptions of how cancer cells develop in the human body. At Kathan Oncology our specalists team practices to focuse on offering technologically advanced and internationally aligned treatments.</p>
+             <iframe width="560" height="315" src="https://www.youtube.com/embed/V2VGHUjN17w?si=ueYXKv5Ly99FAJA9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+              <h3> Mission Statement:</h3>
+              <p>Kathan Oncology's mission is to provide comprehensive care that addresses the physical, psychological, and spiritual needs of patients and their families.</p>
+<!--NEW UPDATE* hero-subtitle controls the design of the subtitle.-->
+            <p class="hero-subtitle "> Schedule your visit Today! - Our team is ready to take care for you every step of the way.</p>
+            <p>Book your appointment now!</p>
+<!-- NEW UPDATE* Div class holds a button layout as well as the design of the two buttons when a user books an appointment or views services.-->
+            <div class="buttons">
+            <a href="appointment.html" class="btn primary">Book Appointment</a>
+            <a href="#services" class="btn secondary">View Services</a>
+            </div>
+         </div>
+<!-- NEW UPDATE* Div class controls the image.-->
+         <div class="hero-image">
+            <img src="https://entranttechnologies.com/img/doctor_appointment_app_img.png" alt="Doctor Illustration">
+         </div>
         </section>
-    </main>
-<h3 style = "color: grey;"
-font-family: Arial, sans-serif;>
-Welcome to Kathan Oncology!
-Here is an insight of what the following therapies will look like as well as detailed descriptions of how cancer cells develop in the human body. At Kathan Oncology our specalists team practices to focuse on offering technologically advanced and internationally aligned treatments.</h3>
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/V2VGHUjN17w?si=ueYXKv5Ly99FAJA9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<h3 style = "color: grey;"
-font-family: Arial, sans-serif;>
-Mission Statement:
-Kathan Oncology's mission is to provide comprehensive care that addresses the physical, psychological, and spiritual needs of patients and their families.</h3>
-
-
-</body>
+<!-- NEW UPDATE* FOOTER  class has selectors for typography styling and the layout structure of the footer.-->
+        <footer class="footer fade-in">
+         <div class="footer-container">
+         <div class="footer-section">
+<!-- This is a small intro into the services page. -->
+        <h3>Services</h3>
+        <p>An innovative, high-quality cancer service that treats both cancerous and non-cancerous conditions with a collaborative team of neurosurgeons. </p>
+        </div>
+        <div class="footer-section">
+<!-- Displays the operating hours. -->
+        <h4>Operating Hours</h4>
+        <ul>
+          <li>Mon - Fri: 8:30am – 4:30pm</li>
+          <li>Sat – Sun: Closed</li>
+          <li>Public Holidays: Closed</li>
+        </ul>
+      </div>
+      <div class="footer-section">
+<!-- Displays the location, cellphone number and email address. -->
+        <h4>Contact Us</h4>
+        <li> Location: Suite 400, Fourth Floor The Park Building Opposite Vincent Pallotti Hospital Park Road Pinelands, 7405</li>
+        <li> Cellphone number: 021 506 5606</li>
+        <li> Email Address: leecia@kathanoncology.co.za</li>
+      </div>
+      <div class="footer-section">
+<!-- Displays the social media links via visual icons. -->
+        <h4>Follow Us</h4>
+        <div class="social-icons">
+          <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook"></a>
+          <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter"></a>
+          <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/733/733614.png" alt="Instagram"></a>
+        </div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>© 2025 Cancer Awareness. All rights reserved.</p>
+    </div>
+  </footer>
+ </body>
 </html>
