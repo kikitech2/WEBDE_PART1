@@ -112,10 +112,6 @@ Dr. Louis Kathan & Kathan Oncology sitemap ( Digram created in word document) (P
 
 
 
-About page in full and half version.
-
-<img width="1865" height="908" alt="image" src="https://github.com/user-attachments/assets/388e2297-edf0-40ff-99f5-affc300a383e" />
-
 
 
 #Changelog - NEW UPDATE* PART 2 
@@ -140,6 +136,12 @@ I have screenshot evidents of how the webiste will look on different screen sett
 <img width="888" height="892" alt="image" src="https://github.com/user-attachments/assets/63974369-105e-42bd-8fb2-72308e5fde6d" />
 
 <img width="1846" height="890" alt="image" src="https://github.com/user-attachments/assets/50a13594-1c13-4fbb-800c-5a81c74bd4bd" />
+
+
+
+About page in full and half version.
+
+<img width="1865" height="908" alt="image" src="https://github.com/user-attachments/assets/388e2297-edf0-40ff-99f5-affc300a383e" />
 
 
 
