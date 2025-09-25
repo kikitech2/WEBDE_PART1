@@ -71,6 +71,8 @@ Week 3:
 •	Begin the basic html formatting structure for the websites features and functionality.
 •	(PART 2) Responsive design added, breakpoints, relative units, responsive images and testing/ debugging as well as updating the readme document in Github.
 
+Total: 6 weeks
+
 
 #Part 1 Details - (PART 1)
 
