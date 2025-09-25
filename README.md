@@ -83,7 +83,7 @@ Week 3:
 
 #Sitemap -
 Dr. Louis Kathan & Kathan Oncology sitemap ( Digram created in word document)
-NEW UPDATE PART 2* - I have made changes to the sitemap layout . The sitemap originally had images and videos on the index page and now i have added its location, services and social links. On the about page it only displays the merchandise images and content about the company. I have added two new web pages where one displays the services on the service page and the other displays booking appointments on the appointments page. The contact page only has the enquiry information since the location has now been moved to the index page. The first image is the origninal and the one beneath the origninal is the new updated version of the sitemap.
+NEW UPDATE PART 2* - I have made changes to the sitemaps layout . The sitemap originally had images and a video on the index page and now i have added its location, services, social media links as well as the operating hours. On the about page it only displays the merchandise images and content about the company. I have added two new web pages where one displays the service content on the services page and the other displays booking appointments on the appointments page. The contact page only has the enquiry information since the location has now been moved to the index page. The first image is the origninal sitemmap that i have created in word document and the one beneath the origninal is the new updated version of the sitemap.
 
 
 <img width="570" height="427" alt="image" src="https://github.com/user-attachments/assets/f6fcbf86-d9ef-498b-8efc-5ab485c0eefc" />
