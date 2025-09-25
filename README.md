@@ -119,6 +119,24 @@ Website movement tracking (KPIs). (PART 1)
 
 (PART 2) The websites features displays a modern colour scheme of white, blue, black and greys with an artistic navigation bar that has a button selector with a hovering animation setting. More visuals like icons and merchandise images have been added into the website and have been added to the references at the bottom.  New external links to popular social media platforms like Facebook, Twitter and Instagram have been included. A WhatsApp community for social media engagement.(KPI) still needs to be actived towards future plans for the website. The website displays an introductory video on the index page which is a well thought summary about cancer and the saftey measures to follow through when the user proceeds to do the treatment.The organization now offers its own branded merchandise, such as headphones, t-shirts, blankets, and water bottle accessories to track merchandise sales (KPI) to measure the brand interest and community support. Prices will be communicated at the front desk. The patient’s testimonial growth comes from the merchandise brands that they wear publically as they take photos to share the love and support of their jounery to recovery tagging the companies name to measure the number of patient reviews and testimonials on the main website and other media platforms.
 
+#Responsive Design - NEW UPDATE* PART 2
+
+I have screenshot evidents of how the webiste will look on different screen settings when its full and when its half. i will first send the full and half version of the index page.
+<img width="1886" height="917" alt="image" src="https://github.com/user-attachments/assets/7109e602-96d3-4541-9ce9-78de873b3093" />
+<img width="1872" height="906" alt="image" src="https://github.com/user-attachments/assets/9fdcce29-97ca-4042-a294-06da15ddf12e" />
+
+<img width="907" height="902" alt="image" src="https://github.com/user-attachments/assets/15bb62f8-e26a-4716-9b67-9a0d895f1a2d" />
+
+<img width="923" height="901" alt="image" src="https://github.com/user-attachments/assets/84f75b1c-db37-4ca0-981d-cc7f1bec4880" />
+<img width="920" height="903" alt="image" src="https://github.com/user-attachments/assets/e0dff256-6f55-4c98-aaa5-6a6c9e10238b" />
+
+<img width="903" height="876" alt="image" src="https://github.com/user-attachments/assets/36342f40-beac-4f99-ba66-40880e88759f" />
+
+<img width="888" height="892" alt="image" src="https://github.com/user-attachments/assets/63974369-105e-42bd-8fb2-72308e5fde6d" />
+
+
+
+
 #References - NEW UPDATE* PART 2
 
 Dr.Louis Kahan, n.d. Kathan Oncology. [Online] 
