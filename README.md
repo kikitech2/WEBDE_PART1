@@ -87,9 +87,9 @@ Total: 6 weeks
 
 #PART 2 Details - NEW UPDATE* PART 2 
 
-- README document has been updated with the feedback from PART 1. There have been various sections in the proposal and the website and they are marked to indicate that there are new updated versions of the POE.
-- An External CSS Style sheet has been created and links through all pages.
-- Responsive styling for mobile devices with a mixture of relative values, media queries and breakpoints are now included appropriately.
+1. README document has been updated with the feedback from PART 1. There have been various sections in the proposal and the website and they are marked to indicate that there are new updated versions of the POE.
+2. An External CSS Style sheet has been created and links through all pages.
+3. Responsive styling for mobile devices with a mixture of relative values, media queries and breakpoints are now included appropriately.
 - Content research and sourcing has been updated with added references. New images and layout structure in html.
 - Technical Requirements - HTML & CSS
 - HTML Files: Now has 5 functioning web pages that are labelled; index.html; about.html; services.html; appointments.html and contacts.html. Two new web pages have been added as shown in the new updated version of the sitemap.
