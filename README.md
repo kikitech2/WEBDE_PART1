@@ -201,6 +201,8 @@ Smith, Kirsten. 2025. Sitemap [Diagram]. Unpublished work.
 es.vecteezy.com, 2023. Logotipo Facebook PNG para descargar gratis. [electronic print]. Available at: <https://static.vecteezy.com/system/resources/previews/018/930/698/non_2x/facebook-logo-facebook-icon-transparent-free-png.png> [Accessed 24 August 2025].
 arrendadoraeconomica.com, 2014. Arrendadora Economica Economical Car Rental. [electronic print]. Available at: <https://cdn-icons-png.flaticon.com/512/733/733558.png> [Accessed 24 August 2025].
 nl.vecteezy.com, 2023. Twitter logo png. [electronic print]. Available at: <https://static.vecteezy.com/system/resources/previews/018/930/745/original/twitter-logo-twitter-icon-transparent-free-free-png.png> [Accessed 24 August 2025].
-
-
-
+veryicon.com, 2023. Male doctor face Vector icons free download in SVG. [electronic print]. Available at:<https://icons.veryicon.com/png/o/healthcate-medical/about-medical-icons/male-doctor-face.png> [Accessed 24 August 2025].
+flaticon.com, 2020. Venus-Free nature icons. [electronic print]. Available at:<https://cdn-icons-png.flaticon.com/512/2909/2909745.png>[Accessed 24 August 2025].
+flaticon.es, 2020. Terapia hormonal. [electronic print]. Available at:<https://cdn-icons-png.flaticon.com/512/2621/2621710.png>[Accessed 24 August 2025].
+flaticon.com, 2020. Drugs. [electronic print]. Available at:<https://cdn-icons-png.flaticon.com/256/2947/2947695.png>[Accessed 24 August 2025].
+freepik.com, 2020. Care Generic color lineal-color icon. [electronic print]. Available at:<https://cdn-icons-png.flaticon.com/512/9491/9491571.png>[Accessed 24 August 2025].
