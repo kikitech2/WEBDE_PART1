@@ -85,7 +85,8 @@ Week 3:
 Dr. Louis Kathan & Kathan Oncology sitemap ( Digram created in word document)
 
 
-#Changelog - Website movement tracking (KPIs)
+#Changelog - Website movement tracking (KPIs).
+NEW UPDATE PART 2* - The website features now has a modern colour scheme of white, blue, black and greys with artistic navigation that has buttons with a hovering animation. More visuals like icons and merchandise images have been added into the website. New external links to popular social media platforms like Facebook, Twitter and Instagram have been included. A new WhatsApp community for social media engagement.(KPI) still needs to be actived towards future plans for the website. The website displays an introductory video on the index page which is a well thought summary about cancer and the saftey measures to follow through well the user proceeds to do the treatment.The organization now offers its own branded merchandise, such as headphones, t-shirts, blankets, and water bottle accessories to track merchandise sales (KPI) to measure the brand interest and community support. Prices will be communicated at the front desk. The patient’s testimonial growth comes from the merchandise brands that they wear publically as they take photos to share the love and support of their jounery to recovery tagging the companies name to measure the number of patient reviews and testimonials on the main website and other media platforms.
 
 #References - 
 
