@@ -88,6 +88,8 @@ NEW UPDATE PART 2* - I have made changes to the sitemap layout . The sitemap ori
 
 <img width="570" height="427" alt="image" src="https://github.com/user-attachments/assets/f6fcbf86-d9ef-498b-8efc-5ab485c0eefc" />
 
+
+
 <img width="715" height="527" alt="image" src="https://github.com/user-attachments/assets/9e30d6e5-c2d1-4d25-9533-0d18d2b59f19" />
 
 
