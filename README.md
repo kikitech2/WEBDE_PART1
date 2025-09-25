@@ -1,4 +1,4 @@
-# WEBDE_PART1
+# WEBDE_PART1 ( README HAS BEEN UPDATED FOR PART 2)
 #Project Titel - Dr. Louis Kathan & Kathan Oncology
 
 #Student information - ST10464927; Smith, K
