@@ -123,6 +123,7 @@ Website movement tracking (KPIs). (PART 1)
 # Responsive Design - NEW UPDATE* PART 2
 
 I have screenshot evidents of how the webiste will look on different screen settings when its full and when its half. i will first send the full and half version of the index page.
+There has been difficulty to upload the css on a mobile device and therefore i have made the screen to be quarter size which is the closest resemblance to a mobile screen.
 
 # Index page in Full version.
 <img width="1886" height="917" alt="image" src="https://github.com/user-attachments/assets/7109e602-96d3-4541-9ce9-78de873b3093" />
@@ -176,6 +177,11 @@ I have screenshot evidents of how the webiste will look on different screen sett
 
 # Contact page in Half version.
 <img width="897" height="888" alt="image" src="https://github.com/user-attachments/assets/ad34347a-fc3a-4ba7-b803-52f1cd45883e" />
+
+
+# Quarter screen version of the index page.
+<img width="763" height="901" alt="image" src="https://github.com/user-attachments/assets/5b4563c7-f87c-42ba-82a3-8b4a88e89f29" />
+
 
 
 
