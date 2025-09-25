@@ -144,6 +144,29 @@ I have screenshot evidents of how the webiste will look on different screen sett
 
 <img width="1846" height="890" alt="image" src="https://github.com/user-attachments/assets/50a13594-1c13-4fbb-800c-5a81c74bd4bd" />
 
+<img width="907" height="891" alt="image" src="https://github.com/user-attachments/assets/16c1c7ab-1f66-40cc-91ba-117ab736a539" />
+
+<img width="913" height="870" alt="image" src="https://github.com/user-attachments/assets/887f39be-ccb8-4e2c-92bd-d9851d16bfcf" />
+
+# Service page in full and half version.
+
+<img width="1853" height="901" alt="image" src="https://github.com/user-attachments/assets/f21445d3-64d7-440e-bdb5-567e8514b864" />
+
+<img width="862" height="876" alt="image" src="https://github.com/user-attachments/assets/6da1cebf-671e-4286-995f-a0fde95253d4" />
+
+
+# Appointmemts page in full and half version.
+
+<img width="1845" height="902" alt="image" src="https://github.com/user-attachments/assets/43e399ff-52f5-463b-865a-aa719a10eb92" />
+
+<img width="877" height="891" alt="image" src="https://github.com/user-attachments/assets/1b7bc4b4-2b00-4f0f-a150-6bb56dc6a0e4" />
+
+
+# Contact page in full and half version.
+<img width="1846" height="900" alt="image" src="https://github.com/user-attachments/assets/e039d703-38e7-4810-a9eb-0675e286f83a" />
+<img width="897" height="888" alt="image" src="https://github.com/user-attachments/assets/ad34347a-fc3a-4ba7-b803-52f1cd45883e" />
+
+
 
 
 # References - NEW UPDATE* PART 2
