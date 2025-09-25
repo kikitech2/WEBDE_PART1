@@ -57,7 +57,7 @@ The websites goal is to increase their local and international presence and meas
 The website hosting and domain name, the requirements (content writing ) , programming languages ( basic html) and frameworks ( sitemap and wireframes) are all technical requirements to be featured on the part of the POE.
 (PART 2) New CSS Style sheet ( Design, Typography Styles, Layout structure, Visual Styles, Resonsive Design)
 
-#Timeline and Milestones -
+#Timeline and Milestones - NEW UPDATE* PART 2 
 
 Week 1: 
 •	Selecting a proposal that has been approved. Gathering information from the website as well as external websites for images and videos .
