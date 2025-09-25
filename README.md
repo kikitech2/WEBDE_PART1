@@ -198,6 +198,9 @@ walmart.com, 2024. Cancer Awareness Live Fight Cancer Ribbon Hope Cure Strength 
 Etsy, 2015. Breast cancer awareness water bottles personalized with your [electronic print]. Available at: <https://i.etsystatic.com/10503194/r/il/8d37d5/772949969/il_fullxfull.772949969_7q5q.jpg> [Accessed 16 August 2025].
 Smith, Kirsten. 2025. Wireframe [Diagram]. Unpublished work.
 Smith, Kirsten. 2025. Sitemap [Diagram]. Unpublished work.
+es.vecteezy.com, 2023. Logotipo Facebook PNG para descargar gratis. [electronic print]. Available at: <https://static.vecteezy.com/system/resources/previews/018/930/698/non_2x/facebook-logo-facebook-icon-transparent-free-png.png> [Accessed 24 August 2025].
+arrendadoraeconomica.com, 2014. Arrendadora Economica Economical Car Rental. [electronic print]. Available at: <https://cdn-icons-png.flaticon.com/512/733/733558.png> [Accessed 24 August 2025].
+nl.vecteezy.com, 2023. Twitter logo png. [electronic print]. Available at: <https://static.vecteezy.com/system/resources/previews/018/930/745/original/twitter-logo-twitter-icon-transparent-free-free-png.png> [Accessed 24 August 2025].
 
 
 
