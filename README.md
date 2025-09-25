@@ -8,17 +8,17 @@
 Dr. David Kathan & Dr. Louis Kathan family practitioners
 
 
-1.	BRIEF HISTORY
+1.	BRIEF HISTORY (PART 1)
 Dr. Louis Kathan founded Kathan Oncology, an organization specializing in neuro-oncology and treating head and neck cancers with advanced methods like stereotactic radiotherapy. Operating since 2009 at Life Vincent Pallotti Hospital in Cape Town, Dr. Kathan provides professional advice and emotional support to his patients.
 Mission and Vision Statement
 
 •	His practice focuses on offering technologically advanced, internationally aligned treatments. Kathan Oncology's mission is to provide comprehensive care that addresses the physical, psychological, and spiritual needs of patients and their families. Their vision is to be a leader in innovative, high-quality cancer services, treating both cancerous and non-cancerous conditions with a collaborative team of neurosurgeons. 
 
- Target Audience:
+ Target Audience:(PART 1)
  
 •	The audience demographics would likely be adults and seniors diagnosed with cancer and it is crucial that their family is also part of the audience when doing research and decision-making.
 
-2.	Goals and objectives:
+2.	Goals and objectives:(PART 1)
    
 •	It will need a website trafficker to strategize the websites most popular social media interactions.
 •	To increase their local and international presence, they should create external links to popular social media platforms like Instagram and TikTok and also consider starting a WhatsApp community for social media engagement.(KPI)
@@ -26,25 +26,25 @@ Mission and Vision Statement
 •	The organization could design and offer its own branded merchandise, such as headphones, t-shirts, blankets, and water bottles accessories to track merchandise sales (KPI) to measure the brand interest and community support.
 •	An effective KPIs will be the patient’s testimonial growth that measures the number of patient reviews and testimonials on the main website and other media platforms. This will make the website loop more active and trustworthy.
 
-3.	Strengths and weakness
+3.	Strengths and weakness (PART 1)
    
 •	The website features a modern colour scheme and artistic navigation, but it lacks a variety of images. It primarily shows the owner, his business, and its location.
 •	Dr. Kathan also manages a family doctor business with a poorly developed website that has received complaints regarding reception staff and inexperienced doctors.
 •	The main website only displays four patient reviews, making it appear inactive. It needs regular updates to include more feedback and reflect ongoing operations.
 •	The site provides valuable content, including news articles on the latest radiotherapy technology and explanations of various cancer therapies and treatments.
 
-4.	Features
+4.	Features - NEW UPDATE* PART 2 
    
-•	The design feature is very neutral and modern and I will stick to its colours of greys, whites and black.
+•	The design feature is very neutral and modern and I will stick to its colours of greys, whites, black and blue.( New color added is blue ).
 •	However, the navigation section is very bright and I will change it to a softer tone to fit in with the colour scheme.
 •	I want to add in visuals and videos of how radiotherapy and other therapies perform to give users a better experience about the website.
 
 
 
-5.	Design
+5.	Design -  NEW UPDATE* PART 2 
    
-•	I would like to keep the original colour scheme however the design layout will change. I want to had in family visuals so that users can see that it is an organisation that targets all ages. 
-•	There will be YouTube and Tik Tok links made available .
+•	(PART 2)I made changes like to the colour scheme. Orignally it was to be kept just white and grey but i have included light colors like blue and a dark black color. The design layout has been changed as i have stated in part 1 that i will be changing the design layout of the website. I have included animation visuals that appears trendy, modern and also eye catching to the user. 
+•	There will be a single YouTube video made available to the user that finds difficulty being overwhelmed by lots of information.
 •	I will also incorporate cancer awareness t-shirt designs in the merchandise section of the website.
 
 
@@ -52,10 +52,10 @@ Mission and Vision Statement
 
 The websites goal is to increase their local and international presence and measure the growth of patient reviews to increase the websites crediabilty, brand and leads.
 
-#Key Features and Functionality - 
+#Key Features and Functionality -  NEW UPDATE* PART 2 
 
 The website hosting and domain name, the requirements (content writing ) , programming languages ( basic html) and frameworks ( sitemap and wireframes) are all technical requirements to be featured on the part of the POE.
-(PART 2) New CSS Style sheet ( Design, Typography Styles, Layout structure, Visual Styles, Resonsive Design)
+(PART 2) New CSS Style sheet ( Design, Typography Styles, Layout structure, Visual Styles, Resonsive Design, images, a video)
 
 #Timeline and Milestones - NEW UPDATE* PART 2 
 
