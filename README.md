@@ -207,3 +207,7 @@ flaticon.com, 2020. Venus-Free nature icons. [electronic print]. Available at:<h
 flaticon.es, 2020. Terapia hormonal. [electronic print]. Available at:<https://cdn-icons-png.flaticon.com/512/2621/2621710.png>[Accessed 24 August 2025].
 flaticon.com, 2020. Drugs. [electronic print]. Available at:<https://cdn-icons-png.flaticon.com/256/2947/2947695.png>[Accessed 24 August 2025].
 freepik.com, 2020. Care Generic color lineal-color icon. [electronic print]. Available at:<https://cdn-icons-png.flaticon.com/512/9491/9491571.png>[Accessed 24 August 2025].
+Open AI. (2024. chatGPT( May 14 version))[Large Language Model].
+<https://chatgpt.com/>
+
+
