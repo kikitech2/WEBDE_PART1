@@ -234,7 +234,7 @@ body {
     font-style: italic;
     color: #555;
 }
-/* SECTIONS & FADE-IN CLASS FOR ALL PAGES*/
+/* SECTIONS & FADE-IN CLASS FOR ALL PAGES I asked chatgpt to help with the animation movements.*/
 /* Creates a smooth faded in layout of the content in the website.*/
 .fade-in {
   opacity: 0;
