@@ -412,14 +412,14 @@ section h1, section h2, section h3 {
   margin-right: 10px;
 }
 
-/* RESPONSIVE DESIGN*/
+/* RESPONSIVE DESIGN breakpoints for the screen sizes*/
 @media (max-width: 900px) {
   .hero {
     flex-direction: column-reverse;
     text-align: center;
   }
 
-/* RESPONSIVE DESIGN*/
+/* RESPONSIVE DESIGN content and service cards follow underneath each other when the user scrolls upwards.*/
   .hero-content {
     margin-top: 30px;
   }
